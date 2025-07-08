@@ -1,1 +1,1 @@
-# AI-Editorial-Model-Training
+# AI Editorial Model Training
