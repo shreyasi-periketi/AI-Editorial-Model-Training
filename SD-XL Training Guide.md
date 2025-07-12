@@ -5,6 +5,7 @@ dataset preparation tab —> copy path of the folder with images and text descri
 <img width="1384" height="1220" alt="ai model 1" src="https://github.com/user-attachments/assets/986341fb-6791-42d4-aa76-2a0af0e2e37e" />
 
 ## Configure folders
+Json file: Lora Character SD-XL Training.json
 <img width="853" height="129" alt="ai model 2" src="https://github.com/user-attachments/assets/3452cb47-5efb-4dd2-b671-492e5c8f34be" />
 <img width="1467" height="1021" alt="ai model 3" src="https://github.com/user-attachments/assets/2915fc5e-3c2d-4fc6-9ae3-5f33747de810" />
 - make sure all the parameters are set correctly (compare to the screenshots at the top)
