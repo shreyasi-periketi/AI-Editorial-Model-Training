@@ -84,4 +84,4 @@ We analyzed how artist-specific styles influenced the output:
 5. Dynamic Prompting - Adjust demographic output using weighted probabilities
 
 ## Team & Contribution
-This project was a collaborative academic initiative developed over the course of a quarter. Each team member played a crucial role in different phases of the project — from data collection and model training to prompt engineering, bias analysis, and presentation. The interdisciplinary effort combined skills in machine learning, AI ethics, prompt design, and visual analysis to build a system that generates more representative, editorial-quality images using generative AI.
+This project was a collaborative academic initiative developed over the course of a quarter. Each team member played a crucial role in different phases of the project from data collection and model training to prompt engineering, bias analysis, and presentation. The interdisciplinary effort combined skills in machine learning, AI ethics, prompt design, and visual analysis to build a system that generates more representative, editorial-quality images using generative AI.
